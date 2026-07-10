@@ -28,8 +28,8 @@ def preguntar(texto: str, defecto: str = "") -> str:
 
 def main():
     print("=" * 62)
-    print("  Compañero desde Cero — instalación del esqueleto")
-    print("  A Companion from Scratch — home scaffold")
+    print("  Just Born 🌱 — instalación del esqueleto")
+    print("  (Compañero desde Cero — home scaffold)")
     print("=" * 62)
 
     idioma = ""

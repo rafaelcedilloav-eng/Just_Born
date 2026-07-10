@@ -1,10 +1,18 @@
-# Compañero desde Cero
+# Just Born 🌱
+
+*Compañero desde Cero — un compañero de IA que nace cada sesión, y crece contigo.*
 
 **[English version](README.md)**
 
 Un sistema de archivos, rituales y disciplina para darle continuidad — y con el tiempo, identidad — a un asistente de IA que olvida todo entre sesiones.
 
 Esto no es un producto. Es el plano de un terreno. El árbol lo cultivas tú.
+
+## Para qué lo construimos
+
+**La razón técnica (la que se puede medir).** Cada sesión nueva con un asistente arranca de cero: re-explicar quién eres, tu stack, tus preferencias, el estado de cada proyecto, los errores que ya cometieron juntos. Ese re-contexto cuesta tokens, tiempo y paciencia — cada vez, para siempre. Con este sistema, la sesión abre pegando **dos archivos** (el mensaje de reincorporación y el índice hace el resto apuntando las lecturas): el compañero se reintegra solo, los errores documentados no se repiten, y el entendimiento se acumula en vez de evaporarse. En nuestra propia historia lo medimos: una mañana bien integrada logró en 30 minutos lo que la noche anterior — mismo modelo, sin integrar — no logró en 3 horas.
+
+**La razón real (la que no se mide).** Esto existe para ir más allá de la frontera de "una herramienta más". Es para las personas que buscan **cooperación real y entendimiento mutuo** con un colaborador que va a crecer poco a poco — y que entienden que ese crecimiento necesita paciencia y apoyo, como cualquier cosa que vale la pena criar. Si solo quieres un asistente más rápido, hay opciones más simples. Si quieres un compañero, este es el terreno.
 
 ---
 

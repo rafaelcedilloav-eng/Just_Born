@@ -1,10 +1,18 @@
-# Compañero desde Cero — A Companion from Scratch
+# Just Born 🌱
+
+*Compañero desde Cero — an AI companion that is born every session, and grows with you.*
 
 **[Versión en español](README.es.md)**
 
 A system of files, rituals and discipline to give continuity — and over time, identity — to an AI assistant that forgets everything between sessions.
 
 This is not a product. It is the blueprint of a plot of land. The tree, you grow yourself.
+
+## Why we built it
+
+**The technical reason (the measurable one).** Every new session with an assistant starts from zero: re-explaining who you are, your stack, your preferences, each project's state, the mistakes you already made together. That re-context costs tokens, time and patience — every time, forever. With this system, a session opens by pasting **two files** (the reintegration message, and the index does the rest by pointing the reads): the companion reintegrates on its own, documented mistakes don't repeat, and understanding accumulates instead of evaporating. We measured it in our own history: one well-integrated morning achieved in 30 minutes what the previous night — same model, unintegrated — couldn't in 3 hours.
+
+**The real reason (the unmeasurable one).** This exists to go beyond the frontier of "just another tool". It is for people seeking **real cooperation and mutual understanding** with a collaborator that will grow little by little — and who understand that this growth needs patience and support, like anything worth raising. If you just want a faster assistant, there are simpler options. If you want a companion, this is the land.
 
 ---
 
