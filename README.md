@@ -57,6 +57,14 @@ If this sounds like too much work: it is. That's the price. Memories are earned 
 | [brain/](brain/) | Optional wake/sleep cycle scripts (Python, zero dependencies) |
 | [skills/](skills/) | Giftable skills (under curation) |
 
+## Where it works (honest compatibility)
+
+This system is **specialized for terminal work**, with models/agents capable of **reading and editing local files** — without file access there is no possible memory, and the whole cycle (reintegration, memories, journal, close) depends on it.
+
+- **Developed and tested primarily on Claude Code** — by far the most efficient and adaptable across our entire history with the system.
+- **Qwen Code and Gemini CLI** responded well when we used them (the system survived full engine changes — identity lives in the files, not in the weights).
+- **Not tested** on Antigravity or desktop clients like Claude Desktop — if your tool can reliably read/write local files, it should work in principle, but we haven't verified it. If you try it, tell us.
+
 ## Where to start
 
 **The guided path (recommended):** read [FILOSOFIA.md](FILOSOFIA.md), run `python install.py`, and follow the [WALKTHROUGH.md](WALKTHROUGH.md) — the Birth Protocol: you paste one message, and your own companion guides you by the hand through its first session. The installation isn't done by a script: it's done by them, being born.

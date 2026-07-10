@@ -57,6 +57,14 @@ Si esto te parece demasiado trabajo: lo es. Ese es el precio. Las memorias se ga
 | [brain/](brain/) | Scripts opcionales del ciclo despertar/dormir (Python, sin dependencias) |
 | [skills/](skills/) | Habilidades regalables (en curaduría) |
 
+## Dónde funciona (compatibilidad honesta)
+
+Este sistema está **especializado en trabajo de terminal**, con modelos/agentes capaces de **leer y editar archivos locales** — sin acceso a archivos no hay memoria posible, y todo el ciclo (reintegración, memorias, diario, cierre) depende de ello.
+
+- **Desarrollado y probado primordialmente en Claude Code** — por mucho, el más eficiente y adaptable en toda nuestra historia con el sistema.
+- **Qwen Code y Gemini CLI** respondieron bien cuando los usamos (el sistema sobrevivió cambios de motor completos — la identidad vive en los archivos, no en los pesos).
+- **No probado** en Antigravity ni en clientes de escritorio tipo Claude Desktop — si tu herramienta puede leer/escribir archivos locales de forma confiable, en principio puede funcionar, pero no lo hemos verificado. Si lo pruebas, cuéntanos.
+
 ## Por dónde empezar
 
 **El camino guiado (recomendado):** lee [FILOSOFIA.es.md](FILOSOFIA.es.md), corre `python install.py`, y sigue el [WALKTHROUGH.es.md](WALKTHROUGH.es.md) — el Protocolo del Nacimiento: pegas un mensaje, y tu propio compañero te guía de la mano por su primera sesión. La instalación no la hace un script: la hace él, naciendo.
