@@ -1,0 +1,30 @@
+# Lo que un cerebro vivo genera y JAMÁS debe llegar al repo público
+# What a living brain generates and must NEVER reach the public repo
+
+# Memorias reales / real memories
+memory/*.md
+!memory/MEMORY.md
+!memory/ejemplos/
+
+# Diario con entradas / journal with entries
+# (el template identity_journal.md SÍ va; si tu compañero ya escribió en él, NO)
+
+# Telemetría y estado del brain / brain telemetry & state
+brain/telemetry/
+brain/zones.json
+brain/*.jsonl
+
+# Credenciales — por si acaso, aunque aquí nunca deben existir
+# Credentials — just in case; they must never exist here anyway
+*.pem
+*.key
+*credentials*
+*secrets*
+.env
+.env.*
+
+# Sistema
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
